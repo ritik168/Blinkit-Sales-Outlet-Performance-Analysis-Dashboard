@@ -158,7 +158,7 @@ Follow best practices from high-performing supermarkets to improve other outlets
 ## Dashboard Preview
 
 
-![screenshort]()
+![screenshort](https://github.com/ritik168/Blinkit-Sales-Outlet-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-12-16%20233859.png)
 
 
 ## Project End
